@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Rent On</string>
+
+    <string-array name="rent_name_text">
+        <item>Maple Residence</item>
+        <item>Sunset Towers</item>
+        <item>Harmony Apartments</item>
+        <item>Blue Sky Residences</item>
+        <item>City View Suites</item>
+        <item>Pinecrest Residency</item>
+        <item>Golden Gate Dormitories</item>
+        <item>Riverfront Apartments</item>
+        <item>Sapphire Plaza</item>
+        <item>Unity Halls</item>
+    </string-array>
+
+    <string-array name="rent_address_text">
+        <item>123 Maple Street, Cityville, State</item>
+        <item>456 Sunset Avenue, Townsville, State</item>
+        <item>789 Harmony Lane, Villageland, State</item>
+        <item>101 Blue Sky Boulevard, Metropolis, State</item>
+        <item>234 City View Road, Uptown, State</item>
+        <item>567 Pinecrest Drive, Suburbia, State</item>
+        <item>890 Golden Gate Street, Downtown, State</item>
+        <item>112 Riverfront Lane, Riverside, State</item>
+        <item>345 Sapphire Street, Central City, State</item>
+        <item>678 Unity Avenue, Harmony City, State</item>
+    </string-array>
 </resources>
