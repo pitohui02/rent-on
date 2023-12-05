@@ -21,7 +21,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="100dp"
+            android:layout_marginTop="70dp"
             android:text="Confirmation code"
             android:textSize="20dp"
             android:textColor="@color/black"
@@ -31,7 +31,7 @@
             android:layout_height="match_parent"
             android:orientation="horizontal">
             <EditText
-                android:id="@+id/pnInput"
+                android:id="@+id/pinInput"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:background="@drawable/border"/>
@@ -42,6 +42,15 @@
             android:text="Resend in 60"
             android:textColor="@color/black"
             />
+        <Button
+            android:id="@+id/continuebtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Continue"
+            android:textColor="@color/white"
+            app:cornerRadius="10dp"
+            android:backgroundTint="#093254"/>
 
 
     </LinearLayout>
